@@ -13,6 +13,7 @@ Get-Help *beep*
 # Aliase
 # dir -> Get-ChildItem
 dir
+Get-Acl
 Get-ChildItem
 # Welcher Befehl befindet sich hinter einem Alias
 Get-Alias dir
