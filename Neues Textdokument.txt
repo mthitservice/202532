@@ -1,0 +1,4 @@
+uiuihjhjhj
+
+git config --global user.email "Michael.Lindner@mth-it-service.com"
+  git config --global user.name "Michael Lindner"
