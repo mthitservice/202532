@@ -1,0 +1,6 @@
+#TYPE Selected.Microsoft.ActiveDirectory.Management.ADUser
+"Name","DistinguishedName","UserPrincipalName"
+"Administrator","CN=Administrator,CN=Users,DC=ith-ml35,DC=local",
+"Gast","CN=Gast,CN=Users,DC=ith-ml35,DC=local",
+"krbtgt","CN=krbtgt,CN=Users,DC=ith-ml35,DC=local",
+"Michael.Lindner","CN=Michael.Lindner,OU=Users,OU=ITH,DC=ith-ml35,DC=local","Michael.Lindner@ith-ml35.local"
